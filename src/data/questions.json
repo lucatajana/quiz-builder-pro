@@ -1,0 +1,2653 @@
+[
+  {
+    "n": 1,
+    "question": "What is the primary function of a Railway System?",
+    "options": {
+      "a": "To transport only passengers",
+      "b": "To transport only freight",
+      "c": "To provide an integrated network for transporting passengers and freight",
+      "d": "To manufacture railway components"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 2,
+    "question": "What are the three main categories of railway systems?",
+    "options": {
+      "a": "Urban, Long-Range, Freight",
+      "b": "Steam, Diesel, Electric",
+      "c": "Cargo, Passenger, Military",
+      "d": "Local, National, International [___]"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 3,
+    "question": "Which country has the highest railway passenger usage per inhabitant?",
+    "options": {
+      "a": "USA",
+      "b": "Germany",
+      "c": "Japan",
+      "d": "Russia"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 4,
+    "question": "What is the standard track gauge in most of Europe?",
+    "options": {
+      "a": "1000 mm",
+      "b": "1520 mm",
+      "c": "1668 mm",
+      "d": "1435 mm"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 5,
+    "question": "What is the main advantage of high-speed rail?",
+    "options": {
+      "a": "Lower ticket cost",
+      "b": "Reduced travel time",
+      "c": "Increased track maintenance cost",
+      "d": "Higher energy consumption"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 6,
+    "question": "What is the maximum commercial speed of high-speed rail?",
+    "options": {
+      "a": "200 km/h",
+      "b": "320 km/h",
+      "c": "450 km/h",
+      "d": "120 km/h"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 7,
+    "question": "Which country operates the longest freight trains?",
+    "options": {
+      "a": "China",
+      "b": "Canada",
+      "c": "Russia Railway Transport – Master's degree in Urban Mobility Multiple-Choice Questions – Section 1 – Railway System",
+      "d": "Germany"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 8,
+    "question": "Which European country has the highest railway network density?",
+    "options": {
+      "a": "Spain",
+      "b": "France",
+      "c": "Switzerland",
+      "d": "Italy"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 9,
+    "question": "What is the main competitor of high-speed rail for long distances?",
+    "options": {
+      "a": "Maritime transport",
+      "b": "Aviation",
+      "c": "Bus transport",
+      "d": "Subway systems"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 10,
+    "question": "What is a significant challenge in railway system integration in the EU?",
+    "options": {
+      "a": "High construction cost",
+      "b": "Lack of interoperability",
+      "c": "Decline in freight transport",
+      "d": "High-speed rail inefficiency"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 11,
+    "question": "Which country has the highest freight rail transport volume?",
+    "options": {
+      "a": "German",
+      "b": "Russia",
+      "c": "China",
+      "d": "Canada"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 12,
+    "question": "Why is freight rail transport efficient for heavy inland goods?",
+    "options": {
+      "a": "High-speed capability",
+      "b": "Cost-effective",
+      "c": "Flexibility in routes",
+      "d": "Low maintenance costs"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 13,
+    "question": "What is a common challenge in freight rail operations in Europe?",
+    "options": {
+      "a": "Track location",
+      "b": "Lack of available infrastructure",
+      "c": "Lack of demand",
+      "d": "Extreme weather conditions"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 14,
+    "question": "Which of the following is a common type of freight train?",
+    "options": {
+      "a": "Intermodal wagon",
+      "b": "High-speed passenger train",
+      "c": "Underground metro Multiple-Choice Questions – Section 1 – Railway System",
+      "d": "Electric tram"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 15,
+    "question": "Which industry relies heavily on freight rail transport?",
+    "options": {
+      "a": "Tourism",
+      "b": "Automotive",
+      "c": "Mining",
+      "d": "Fashion"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 16,
+    "question": "What is a key financial challenge in railway operations?",
+    "options": {
+      "a": "Cheap ticket prices",
+      "b": "High infrastructure cost",
+      "c": "Excessive government funding",
+      "d": "Low demand"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 17,
+    "question": "Which factor impacts railway revenue the most?",
+    "options": {
+      "a": "Rolling stock depreciation",
+      "b": "Ticket sales",
+      "c": "Employee wages",
+      "d": "Length of the railway line"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 18,
+    "question": "Which infrastructure component has the highest cost?",
+    "options": {
+      "a": "Signaling systems",
+      "b": "Rolling stock",
+      "c": "Track construction",
+      "d": "Electrification"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 19,
+    "question": "Which model does the EU promote for railway operations?",
+    "options": {
+      "a": "Vertical integration",
+      "b": "Horizontal integration",
+      "c": "Vertical separation",
+      "d": "State-owned monopoly"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 20,
+    "question": "What is the biggest environmental benefit of rail transport?",
+    "options": {
+      "a": "Low CO2 emissions",
+      "b": "Lower passenger fares",
+      "c": "Higher energy consumption",
+      "d": "High flexibility"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 21,
+    "question": "Which city has the longest metro network?",
+    "options": {
+      "a": "New York",
+      "b": "London",
+      "c": "Shanghai",
+      "d": "Paris"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 22,
+    "question": "What is the world's oldest metro system?",
+    "options": {
+      "a": "New York",
+      "b": "Paris",
+      "c": "London",
+      "d": "Moscow"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 23,
+    "question": "Which metro system has the most stations?",
+    "options": {
+      "a": "Tokyo",
+      "b": "New York",
+      "c": "Madrid",
+      "d": "Moscow"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 24,
+    "question": "What is a distinguishing feature of commuter rail services?",
+    "options": {
+      "a": "High-speed travel",
+      "b": "Operates only in rural areas",
+      "c": "Ticket sales are origin-destination based",
+      "d": "Does not require train schedules"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 25,
+    "question": "Which country has the busiest railway system in terms of passengers-km/inhabitant?",
+    "options": {
+      "a": "Japan",
+      "b": "USA",
+      "c": "Russia",
+      "d": "Germany"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 26,
+    "question": "What is a key safety feature in modern railway systems?",
+    "options": {
+      "a": "Manual braking system",
+      "b": "Automatic train control (ATC)",
+      "c": "Uncontrolled level crossings",
+      "d": "No signaling system"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 27,
+    "question": "What is the main cause of railway accidents?",
+    "options": {
+      "a": "Poor weather conditions",
+      "b": "Human error",
+      "c": "Rail track expansion",
+      "d": "Train weight"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 28,
+    "question": "What is the role of a train signaling system?",
+    "options": {
+      "a": "Prevent collisions",
+      "b": "Increase train speed",
+      "c": "Improve fuel efficiency",
+      "d": "Reduce ticket prices"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 29,
+    "question": "What is the main purpose of a railway risk assessment?",
+    "options": {
+      "a": "To reduce ticket costs",
+      "b": "To analyze potential hazards and improve safety",
+      "c": "To increase passenger load",
+      "d": "To promote tourism"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 30,
+    "question": "Which factor is most critical in preventing derailments?",
+    "options": {
+      "a": "Train speed",
+      "b": "Regular track maintenance",
+      "c": "Passenger weight distribution",
+      "d": "Number of railway staff"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 31,
+    "question": "What is the primary reason for track alignment maintenance?",
+    "options": {
+      "a": "To improve passenger comfort and safety",
+      "b": "To increase train ticket prices",
+      "c": "To reduce train length",
+      "d": "To eliminate the need for signaling systems"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 32,
+    "question": "What is the main cause of track deformation over time?",
+    "options": {
+      "a": "Temperature changes and train load",
+      "b": "Passenger behavior",
+      "c": "Poor station design",
+      "d": "Lack of ticketing infrastructure"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 33,
+    "question": "What is the purpose of rail grinding in maintenance?",
+    "options": {
+      "a": "To smooth out rail surface and extend track life",
+      "b": "To reduce passenger wait times",
+      "c": "To increase train speed",
+      "d": "To prevent electrification failure"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 34,
+    "question": "Which of the following is an early detection method for track faults?",
+    "options": {
+      "a": "Track geometry monitoring",
+      "b": "Passenger surveys",
+      "c": "Manual station inspections",
+      "d": "Reduced ticket prices"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 35,
+    "question": "What is the main advantage of predictive maintenance in railways?",
+    "options": {
+      "a": "Identifying failures before they occur",
+      "b": "Increasing ticket fares",
+      "c": "Reducing train size",
+      "d": "Eliminating the need for inspections"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 36,
+    "question": "What is the main reason for railway infrastructure maintenance?",
+    "options": {
+      "a": "Increase ticket prices",
+      "b": "Ensure safety and efficiency",
+      "c": "Reduce passenger demand",
+      "d": "Slow down train operations"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 37,
+    "question": "Which component requires the most frequent maintenance in rail systems?",
+    "options": {
+      "a": "Railway stations",
+      "b": "Train wheels and axles",
+      "c": "Passenger seating",
+      "d": "Ticket machines"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 38,
+    "question": "What is track ballast used for?",
+    "options": {
+      "a": "To reduce noise levels",
+      "b": "To provide stability and drainage for tracks",
+      "c": "To increase train speed",
+      "d": "To generate electricity"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 39,
+    "question": "How often should high-speed rail tracks be inspected?",
+    "options": {
+      "a": "Every 10 years",
+      "b": "Every 6 months",
+      "c": "Daily or weekly",
+      "d": "Only after an accident"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 40,
+    "question": "What is the primary factor affecting railway track wear?",
+    "options": {
+      "a": "Passenger numbers",
+      "b": "Train weight and frequency of use",
+      "c": "Weather forecasts",
+      "d": "Number of railway employees"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 41,
+    "question": "Which energy source is most commonly used for modern railway electrification?",
+    "options": {
+      "a": "Diesel fuel",
+      "b": "Coal",
+      "c": "Electricity",
+      "d": "Hydrogen"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 42,
+    "question": "What is the main environmental benefit of electric railways?",
+    "options": {
+      "a": "Reduced travel time",
+      "b": "Lower CO<sub>2</sub> emissions Railway Transport – Master's degree in Urban Mobility Multiple-Choice Questions – Section 1 – Railway System",
+      "c": "Increased energy consumption",
+      "d": "Higher ticket prices"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 43,
+    "question": "What is a key advantage of high-speed rail over road transport?",
+    "options": {
+      "a": "Requires more fuel",
+      "b": "Higher capacity with lower energy consumption per passenger",
+      "c": "Slower than buses",
+      "d": "Limited passenger comfort"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 44,
+    "question": "What is one way railways can reduce energy consumption?",
+    "options": {
+      "a": "Using heavier trains",
+      "b": "Increasing train braking frequency",
+      "c": "Regenerative braking technology",
+      "d": "Avoiding electric trains"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 45,
+    "question": "What is an alternative fuel being researched for railway use?",
+    "options": {
+      "a": "Wood",
+      "b": "Hydrogen fuel cells",
+      "c": "Nuclear power",
+      "d": "Diesel generators"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 46,
+    "question": "What is the main purpose of railway regulations?",
+    "options": {
+      "a": "To increase ticket prices",
+      "b": "To ensure safety and fair competition",
+      "c": "To prevent passengers from using rail services",
+      "d": "To reduce train speeds"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 47,
+    "question": "Which organization oversees international railway safety standards?",
+    "options": {
+      "a": "World Trade Organization (WTO)",
+      "b": "International Union of Railways (UIC)",
+      "c": "United Nations (UN)",
+      "d": "International Monetary Fund (IMF)"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 48,
+    "question": "Why is track gauge standardization important for railway operations?",
+    "options": {
+      "a": "It allows interoperability between countries",
+      "b": "It reduces railway construction costs",
+      "c": "It increases train speeds",
+      "d": "It limits freight train capacity"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 49,
+    "question": "What is a major limitation of freight rail transport in Europe?",
+    "options": {
+      "a": "Limited cross-border interoperability Railway Transport – Master's degree in Urban Mobility Multiple-Choice Questions – Section 1 – Railway System",
+      "b": "High passenger demand",
+      "c": "Lack of train operators",
+      "d": "Poor station facilities"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 50,
+    "question": "What factor limits high-speed rail expansion in some regions?",
+    "options": {
+      "a": "High construction costs",
+      "b": "Lack of public interest",
+      "c": "Slow train speeds",
+      "d": "Limited electricity supply"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 51,
+    "question": "What is a primary benefit of autonomous trains?",
+    "options": {
+      "a": "Increased energy consumption",
+      "b": "Higher accident risks",
+      "c": "Reduced operational costs and human errors",
+      "d": "Reduced passenger numbers"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 52,
+    "question": "How does digital signaling improve railway operations?",
+    "options": {
+      "a": "Reduces human intervention and increases safety",
+      "b": "Increases maintenance costs",
+      "c": "Slows down train operations",
+      "d": "Reduces train frequency"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 53,
+    "question": "What is one benefit of implementing artificial intelligence in railways?",
+    "options": {
+      "a": "Slower train operations",
+      "b": "Better predictive maintenance and efficiency",
+      "c": "Higher energy consumption",
+      "d": "Reduced passenger capacity"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 55,
+    "question": "What is a major trend in the future of railway systems?",
+    "options": {
+      "a": "Expansion of high-speed rail networks",
+      "b": "Decreasing railway infrastructure investment",
+      "c": "Increased reliance on fossil fuels",
+      "d": "Reduced government support"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 1,
+    "question": "What is the function of the railway infrastructure's substructure?",
+    "options": {
+      "a": "Support superstructure elements and transfer loads to the ground",
+      "b": "Hold up the catenary system",
+      "c": "Guide train wheels",
+      "d": "Transmit electrical signals"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 2,
+    "question": "Which of the following is considered a 'civil work' in railway infrastructure?",
+    "options": {
+      "a": "Rails",
+      "b": "Ballast",
+      "c": "Embankments",
+      "d": "Switches"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 3,
+    "question": "What is the purpose of false tunnels in railway infrastructure?",
+    "options": {
+      "a": "To redirect rainwater",
+      "b": "To hide maintenance facilities",
+      "c": "To reduce noise and visual impact",
+      "d": "To store track equipment"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 4,
+    "question": "What element is responsible for providing a continuous, stable rolling surface?",
+    "options": {
+      "a": "Sub-base",
+      "b": "Track gauge",
+      "c": "Rail",
+      "d": "Infrastructure"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 5,
+    "question": "Which infrastructure element transfers train efforts to the ground without deformation?",
+    "options": {
+      "a": "Catenary",
+      "b": "Switch",
+      "c": "Platform",
+      "d": "Track system"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 6,
+    "question": "What separates civil works from industrial works in railway infrastructure?",
+    "options": {
+      "a": "Use of ballast",
+      "b": "Construction year",
+      "c": "Location underground",
+      "d": "Function and component type"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 7,
+    "question": "What is the main role of transverse drainage?",
+    "options": {
+      "a": "Connect catenary poles",
+      "b": "Improve ballast life",
+      "c": "Redirect water flow away from the track Infraestructura de Trasporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "d": "Anchor rail joints"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 8,
+    "question": "What structure helps railways traverse valleys or rivers?",
+    "options": {
+      "a": "Embankment",
+      "b": "Culvert",
+      "c": "Tunnel",
+      "d": "Viaduct"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 9,
+    "question": "Which element is typically installed on the superstructure?",
+    "options": {
+      "a": "Tunnel wall",
+      "b": "Ballast",
+      "c": "Culvert",
+      "d": "Drainage ditch"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 10,
+    "question": "Which type of track is designed to improve long-term geometric quality?",
+    "options": {
+      "a": "Ballasted track",
+      "b": "Gravel-supported track",
+      "c": "Slab track",
+      "d": "Welded track"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 11,
+    "question": "What is the main function of a rail's foot?",
+    "options": {
+      "a": "Provide traction to the wheels",
+      "b": "Guide the wheel flanges",
+      "c": "Provide stability and fastening base",
+      "d": "Act as insulation"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 12,
+    "question": "Which rail type is commonly used for trams and can be embedded in roads?",
+    "options": {
+      "a": "Grooved rail",
+      "b": "Bull head rail",
+      "c": "Flat bottom rail",
+      "d": "UIC 60 rail"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 13,
+    "question": "What is the typical rail inclination in Europe?",
+    "options": {
+      "a": "0°",
+      "b": "1:20",
+      "c": "1:40",
+      "d": "2:10"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 14,
+    "question": "Which part of the rail connects the head and the foot?",
+    "options": {
+      "a": "Soleplate",
+      "b": "Web Infraestructura de Trasporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "c": "Anchor",
+      "d": "Brace"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 15,
+    "question": "What is the purpose of continuous welded rail (CWR)?",
+    "options": {
+      "a": "Increase friction",
+      "b": "Allow rail expansion",
+      "c": "Minimize maintenance and improve stability",
+      "d": "Reduce derailments from wet weather"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 16,
+    "question": "Which joint type is commonly used to reduce noise in straight track in track with joints?",
+    "options": {
+      "a": "Staggered joint",
+      "b": "Suspended joint",
+      "c": "Square joint",
+      "d": "Bridge joint"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 17,
+    "question": "What is the function of the flange in a railway wheel?",
+    "options": {
+      "a": "Transfer electricity",
+      "b": "Absorb shock",
+      "c": "Guide the wheel on curves",
+      "d": "Reduce wear"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 18,
+    "question": "Which rail profile is most commonly used in high-speed rail lines?",
+    "options": {
+      "a": "UIC 54",
+      "b": "UIC 60",
+      "c": "NP 46",
+      "d": "Bull Head"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 19,
+    "question": "What is the main disadvantage of grooved rail?",
+    "options": {
+      "a": "Incompatible with electric trains",
+      "b": "High noise levels",
+      "c": "Weaker railhead",
+      "d": "Difficult maintenance in embedded systems"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 20,
+    "question": "What does track clearance (Juego de vía) help mitigate?",
+    "options": {
+      "a": "Passenger discomfort",
+      "b": "Track construction errors",
+      "c": "Derailment risk",
+      "d": "Rail wear"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 21,
+    "question": "What is the function of rail clips in fastening systems? <!-- layout: uytj, thwx, wobf, vppi -->",
+    "options": {
+      "a": "Distribute load to subgrade",
+      "b": "Secure rail to sleeper",
+      "c": "Transmit signals",
+      "d": "Dampen wheel vibration"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 22,
+    "question": "What is an advantage of elastic fastening systems? <!-- layout: qpjz, ihtj, vmdh, sdja -->",
+    "options": {
+      "a": "Quick installation",
+      "b": "Better grounding",
+      "c": "Reduced noise and vibration",
+      "d": "Low cost"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 23,
+    "question": "What is the purpose of baseplates in a rail fastening system? <!-- layout: ybea, tzzs, bcyu, luss -->",
+    "options": {
+      "a": "Absorb rail stress",
+      "b": "Reduce concrete wear",
+      "c": "Distribute rail loads to sleeper",
+      "d": "Anchor catenary"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 24,
+    "question": "What system uses rails embedded in concrete? <!-- layout: rgvq, wvps, buvd, agot -->",
+    "options": {
+      "a": "Pandrol",
+      "b": "KPO",
+      "c": "FERS",
+      "d": "UIC 60"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 25,
+    "question": "What element of a fastening system prevents lateral rail movement? <!-- layout: rsnz, nssh, rswb, avfu -->",
+    "options": {
+      "a": "Anchor bolt",
+      "b": "Rail pad",
+      "c": "Insulator",
+      "d": "Rail clip"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 26,
+    "question": "Why are insulators important in fastening systems? <!-- layout: nxwq, xumc, ytpb, vxus -->",
+    "options": {
+      "a": "Strengthen rail contact",
+      "b": "Reduce cost",
+      "c": "Electrically isolate rails",
+      "d": "Increase load capacity"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 27,
+    "question": "Which fastening system includes a resistant pad between rail and baseplate? <!-- layout: icya, syue, burs, jesz -->",
+    "options": {
+      "a": "KPO",
+      "b": "Nabla",
+      "c": "Pandrol",
+      "d": "Clip"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 28,
+    "question": "What effect does high vertical baseplate stiffness have?",
+    "options": {
+      "a": "Increases wheel slip",
+      "b": "Increases vibration in ballast",
+      "c": "Improves curve flexibility",
+      "d": "Reduces fastener wear"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 29,
+    "question": "Which fastening system is ideal for high-speed rail?",
+    "options": {
+      "a": "Rigid",
+      "b": "Screw spike",
+      "c": "Elastic (e.g. Pandrol)",
+      "d": "Bridge"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 30,
+    "question": "Why is the FERS system preferred in urban areas?",
+    "options": {
+      "a": "Lower installation cost",
+      "b": "Faster to repair",
+      "c": "Quieter and lower vibration",
+      "d": "Wider rail spacing"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 31,
+    "question": "What is the main function of sleepers in a railway track?",
+    "options": {
+      "a": "Transmit radio signals",
+      "b": "Join rails and maintain gauge",
+      "c": "Prevent water flow",
+      "d": "Generate electricity"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 32,
+    "question": "Which sleeper material is best suited for high-speed rail lines?",
+    "options": {
+      "a": "Wood",
+      "b": "Plastic",
+      "c": "Concrete",
+      "d": "Aluminum"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 33,
+    "question": "Which sleeper type includes two connected transverse elements?",
+    "options": {
+      "a": "Mono-block",
+      "b": "Double sleeper",
+      "c": "Zipper sleeper",
+      "d": "Timber sleeper"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 34,
+    "question": "What factor affects the effective sleeper surface area?",
+    "options": {
+      "a": "Rail length",
+      "b": "Tie spacing",
+      "c": "Sleeper shape and base layer Infraestructura de Trasporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "d": "Platform height"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 35,
+    "question": "Which type of sleeper is least resistant to weather?",
+    "options": {
+      "a": "Concrete",
+      "b": "Steel",
+      "c": "Plastic",
+      "d": "Wood"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 36,
+    "question": "Why are concrete sleepers widely used?",
+    "options": {
+      "a": "Low cost and flexibility",
+      "b": "Easy to move manually",
+      "c": "High load capacity and durability",
+      "d": "Suitable for temporary tracks"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 37,
+    "question": "Zipper sleepers are known for:",
+    "options": {
+      "a": "Lightweight and wood-based",
+      "b": "Providing continuous track support",
+      "c": "Being made of recycled metal",
+      "d": "High absorption of water"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 38,
+    "question": "Which sleeper material provides electrical insulation?",
+    "options": {
+      "a": "Steel",
+      "b": "Wood",
+      "c": "Plastic",
+      "d": "Concrete"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 39,
+    "question": "Which of these is a potential disadvantage of steel sleepers?",
+    "options": {
+      "a": "Susceptible to corrosion",
+      "b": "Excessive weight",
+      "c": "Too elastic for freight",
+      "d": "Difficult to stack"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 40,
+    "question": "What determines sleeper selection in a project?",
+    "options": {
+      "a": "Length of the train",
+      "b": "Track shape",
+      "c": "Load, traffic, and environmental factors",
+      "d": "Color of railcar"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 41,
+    "question": "Which of the following is a main function of ballast?",
+    "options": {
+      "a": "Prevent rain",
+      "b": "Provide electrical signal Infraestructura de Trasporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "c": "Maintain track position and drain water",
+      "d": "Carry train load directly"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 42,
+    "question": "What characteristic is important in ballast stone shape?",
+    "options": {
+      "a": "Roundness",
+      "b": "Smooth surface",
+      "c": "Angular shape for interlock",
+      "d": "Glossy finish"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 43,
+    "question": "Ballast material is typically composed of:",
+    "options": {
+      "a": "Wood chips",
+      "b": "Crushed stone or gravel",
+      "c": "Asphalt",
+      "d": "Recycled plastic"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 44,
+    "question": "What maintenance process re-compacts loose ballast?",
+    "options": {
+      "a": "Grading",
+      "b": "Tamping",
+      "c": "Sealing",
+      "d": "Pouring"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 45,
+    "question": "Ballastless tracks use:",
+    "options": {
+      "a": "Thicker gravel layers",
+      "b": "No sleepers",
+      "c": "Concrete slabs instead of stone",
+      "d": "Rubber pads"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 46,
+    "question": "Which is a drawback of ballastless track systems?",
+    "options": {
+      "a": "Short lifespan",
+      "b": "Increased noise",
+      "c": "Higher initial cost and complex repair",
+      "d": "Frequent cleaning needed"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 47,
+    "question": "Which issue does degraded ballast commonly cause?",
+    "options": {
+      "a": "Slower acceleration",
+      "b": "Poor drainage and misalignment",
+      "c": "Excessive heat",
+      "d": "Excessive spark formation"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 48,
+    "question": "What is ballast grading? Infraestructura de Trasporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+    "options": {
+      "a": "Color coding ballast zones",
+      "b": "Leveling and sorting ballast size",
+      "c": "Painting ballast rocks",
+      "d": "Insulating track bed"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 49,
+    "question": "What type of ballast maintenance removes clogged debris?",
+    "options": {
+      "a": "Vacuuming",
+      "b": "Tamping",
+      "c": "Cleaning",
+      "d": "Re-rolling"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 50,
+    "question": "Which feature of ballast controls noise and vibration?",
+    "options": {
+      "a": "Moisture content",
+      "b": "Shape and packing",
+      "c": "Age of track",
+      "d": "Rail surface polish"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 51,
+    "question": "What is the role of the sub-base layer in track platforms?",
+    "options": {
+      "a": "Increase wheel speed",
+      "b": "Act as foundation transition",
+      "c": "Reflect light",
+      "d": "Hold electrical wires"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 52,
+    "question": "Which factor affects the platform layer thickness?",
+    "options": {
+      "a": "Color of sleepers",
+      "b": "Passenger comfort level",
+      "c": "Soil and traffic characteristics",
+      "d": "Rail manufacturer"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 53,
+    "question": "The platform lies between which two components?",
+    "options": {
+      "a": "Catenary and tunnel",
+      "b": "Sleeper and subgrade",
+      "c": "Ballast and subgrade",
+      "d": "Sleeper and rail"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 54,
+    "question": "What material is commonly used in platform base layers?",
+    "options": {
+      "a": "Metal sheets",
+      "b": "Rubber mats",
+      "c": "Granular material",
+      "d": "Plastic boards"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 55,
+    "question": "Why are platforms dimensioned based on 'fictitious traffic'?",
+    "options": {
+      "a": "Avoid peak congestion",
+      "b": "Optimize sleeper production",
+      "c": "Simulate stress scenarios",
+      "d": "Design lighting layout"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 56,
+    "question": "What is an anti-pollution layer's purpose in a platform?",
+    "options": {
+      "a": "Block dust from passengers",
+      "b": "Reduce structural noise",
+      "c": "Prevent soil contamination",
+      "d": "Cool the subgrade"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 57,
+    "question": "Platform structure helps ensure:",
+    "options": {
+      "a": "Maximum acceleration",
+      "b": "Track rigidity and alignment",
+      "c": "Overhead clearance",
+      "d": "Braking force"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 58,
+    "question": "What is the bottom-most layer in a complex platform?",
+    "options": {
+      "a": "Anti-pollution felt",
+      "b": "Sub-ballast",
+      "c": "Track slab",
+      "d": "Earth platform"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 59,
+    "question": "Why are multiple layers used in a platform structure?",
+    "options": {
+      "a": "To insulate wiring",
+      "b": "To absorb daylight",
+      "c": "To ensure load distribution and drainage",
+      "d": "To reduce platform slope"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 60,
+    "question": "The platform thickness depends least on:",
+    "options": {
+      "a": "Train color",
+      "b": "Soil type",
+      "c": "Climate",
+      "d": "Traffic type"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 1,
+    "question": "What are bogies primarily responsible for in a locomotive?",
+    "options": {
+      "a": "Heating system control",
+      "b": "Passenger comfort",
+      "c": "Supporting and guiding the vehicle",
+      "d": "Power generation"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 2,
+    "question": "Which suspension system connects the car body to the bogie?",
+    "options": {
+      "a": "Third suspension",
+      "b": "Primary suspension",
+      "c": "Shock absorber",
+      "d": "Secondary suspension"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 3,
+    "question": "Which component ensures ride comfort by absorbing vibration in bogies?",
+    "options": {
+      "a": "Pantograph",
+      "b": "Yaw damper",
+      "c": "Axle box",
+      "d": "Leaf spring"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 4,
+    "question": "What is a DMU in rail transport?",
+    "options": {
+      "a": "Diesel Maintenance Unit",
+      "b": "Direct Magnetic Unit",
+      "c": "Diesel Multiple Unit",
+      "d": "Distributed Mechanical Unit"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 6,
+    "question": "Which of the following is NOT a type of locomotive propulsion?",
+    "options": {
+      "a": "Electric",
+      "b": "Steam",
+      "c": "Nuclear",
+      "d": "Diesel-electric"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 7,
+    "question": "Which coupler type allows automatic mechanical, electric, and pneumatic connection?",
+    "options": {
+      "a": "Screw coupler Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "b": "Manual coupler",
+      "c": "Semi-automatic coupler",
+      "d": "Automatic coupler"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 8,
+    "question": "Which coupler is known for requiring the least human effort?",
+    "options": {
+      "a": "Screw coupler",
+      "b": "Automatic coupler",
+      "c": "Buffer and chain",
+      "d": "Knuckle coupler"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 9,
+    "question": "What is the main benefit of regenerative braking in high-speed trains?",
+    "options": {
+      "a": "Noise reduction",
+      "b": "Improved passenger comfort",
+      "c": "Energy recovery",
+      "d": "Speed increase"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 10,
+    "question": "Which suspension is typical in second-generation high-speed trainsets?",
+    "options": {
+      "a": "Steel leaf spring",
+      "b": "Rubber bush",
+      "c": "Pneumatic suspension",
+      "d": "None"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 11,
+    "question": "Talgo trains differ from traditional designs by:",
+    "options": {
+      "a": "Having tilting bodies with axle bogies",
+      "b": "Using suspended wheelsets between cars",
+      "c": "Having flat railpads under the box",
+      "d": "Running without brakes"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 12,
+    "question": "What component transfers traction force from bogies to the car body?",
+    "options": {
+      "a": "Pantograph",
+      "b": "Draw bar",
+      "c": "Suspension",
+      "d": "Axle"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 13,
+    "question": "Which component improves lateral stability on passenger cars?",
+    "options": {
+      "a": "Vertical damper",
+      "b": "Spring shoe",
+      "c": "Yaw damper",
+      "d": "Retainer pin Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 14,
+    "question": "The box of a locomotive is mounted on:",
+    "options": {
+      "a": "Catenary poles",
+      "b": "Braking systems",
+      "c": "Two or three bogies",
+      "d": "Platform seats"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 15,
+    "question": "What connects bogie frame and wheel axles?",
+    "options": {
+      "a": "Primary suspension",
+      "b": "Yaw damper",
+      "c": "Secondary suspension",
+      "d": "Sole plate"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 16,
+    "question": "What is an EMU in railway terminology?",
+    "options": {
+      "a": "Engineered Motor Unit",
+      "b": "Electric Multiple Unit",
+      "c": "Electronic Metro Utility",
+      "d": "Enhanced Mobile Utility"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 17,
+    "question": "Which type of rolling stock carries cargo?",
+    "options": {
+      "a": "Railcar",
+      "b": "Passenger coach",
+      "c": "Freight wagon",
+      "d": "EMU"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 18,
+    "question": "What is the benefit of using multiple units in urban trains?",
+    "options": {
+      "a": "Lower voltage needs",
+      "b": "More seating space",
+      "c": "Driverless operation",
+      "d": "Distributed traction and easier control"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 19,
+    "question": "Which coupler type is most used in traditional European trains?",
+    "options": {
+      "a": "Knuckle",
+      "b": "Screw and buffers",
+      "c": "Janney",
+      "d": "Automatic latch"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 20,
+    "question": "Which coupler type uses a mechanical locking and manual pneumatic link? Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+    "options": {
+      "a": "Screw coupler",
+      "b": "Automatic coupler",
+      "c": "Semi-automatic",
+      "d": "Spring-link coupler"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 21,
+    "question": "What type of brake directly interacts with the rail?",
+    "options": {
+      "a": "Disc brake",
+      "b": "Track brake",
+      "c": "Regenerative brake",
+      "d": "Emergency air brake"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 22,
+    "question": "Which suspension system provides comfort in high-speed rail?",
+    "options": {
+      "a": "Primary",
+      "b": "Yaw damper",
+      "c": "Secondary",
+      "d": "Bogie frame"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 23,
+    "question": "What is the role of the pantograph?",
+    "options": {
+      "a": "Support car weight",
+      "b": "Control brakes",
+      "c": "Collect electrical power",
+      "d": "Store fuel"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 24,
+    "question": "What is the primary function of the bogie in railway vehicles?",
+    "options": {
+      "a": "To generate propulsion",
+      "b": "To store cargo",
+      "c": "To ensure stability and absorb track irregularities",
+      "d": "To transmit braking force to the car body"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 25,
+    "question": "What component connects the box frame to the bogie frame in a locomotive?",
+    "options": {
+      "a": "Primary suspension",
+      "b": "Pantograph",
+      "c": "Yaw damper",
+      "d": "Disc brake"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 26,
+    "question": "Which of the following is NOT a component of a bogie?",
+    "options": {
+      "a": "Pantograph",
+      "b": "Wheelset Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "c": "Primary spring",
+      "d": "Secondary shock absorber"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 27,
+    "question": "What distinguishes BB from CC axle configurations?",
+    "options": {
+      "a": "BB has 3 axles per bogie, CC has 2",
+      "b": "BB is for freight only, CC for passengers",
+      "c": "BB has 2 axles per bogie, CC has 3",
+      "d": "CC uses electrical motors; BB does not"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 28,
+    "question": "What is the purpose of the yaw damper in passenger coaches?",
+    "options": {
+      "a": "To connect vehicles",
+      "b": "To absorb vertical vibration",
+      "c": "To control small amplitude bogie movements",
+      "d": "To reduce aerodynamic drag"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 29,
+    "question": "Which part in a coach primarily contributes to passenger comfort?",
+    "options": {
+      "a": "Primary suspension",
+      "b": "Secondary suspension",
+      "c": "Axle guard",
+      "d": "Leaf spring"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 30,
+    "question": "The function of the anti-roll bar in railway carriages is to:",
+    "options": {
+      "a": "Transmit electric signals",
+      "b": "Convert kinetic energy into electricity",
+      "c": "Counteract the rolling moment of the train car",
+      "d": "Reduce wheel wear"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 31,
+    "question": "Which component is responsible for transferring car body load during track width change?",
+    "options": {
+      "a": "Pantograph",
+      "b": "Side slide chairs",
+      "c": "Bolster spring seat",
+      "d": "Screw coupler"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 32,
+    "question": "Which part acts as the support structure for all other bogie parts?",
+    "options": {
+      "a": "Shock absorber",
+      "b": "Frame",
+      "c": "Axle guard Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "d": "Wheelset"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 33,
+    "question": "Which system allows the Talgo train to mechanically align wheels to rails on curves?",
+    "options": {
+      "a": "Yaw damper",
+      "b": "Articulated triangle linkage",
+      "c": "Pantograph",
+      "d": "Electropneumatic brakes"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 34,
+    "question": "What does the term \"rolling stock\" refer to in rail transport?",
+    "options": {
+      "a": "Only high-speed trains",
+      "b": "Only freight locomotives",
+      "c": "All vehicles that move on a railway",
+      "d": "Infrastructure such as rails and signals"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 35,
+    "question": "Which of the following is considered a powered railway vehicle?",
+    "options": {
+      "a": "Wagon",
+      "b": "Coach",
+      "c": "Locomotive",
+      "d": "Caboose"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 36,
+    "question": "What is the typical weight range of a locomotive?",
+    "options": {
+      "a": "20–35 Tn",
+      "b": "41–48 Tn",
+      "c": "80–120 Tn",
+      "d": "150–200 Tn"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 37,
+    "question": "What is the average weight range of a passenger coach?",
+    "options": {
+      "a": "80–120 Tn",
+      "b": "25–30 Tn",
+      "c": "60–75 Tn",
+      "d": "41–48 Tn"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 38,
+    "question": "Which of the following is NOT a type of towed equipment?",
+    "options": {
+      "a": "Coach",
+      "b": "Wagon",
+      "c": "Railcar",
+      "d": "Freight car Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 39,
+    "question": "What is a characteristic of self-propelled railway vehicles?",
+    "options": {
+      "a": "They require an external locomotive",
+      "b": "They have no onboard motors",
+      "c": "They include multiple units and high-speed trains",
+      "d": "They are used only for freight"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 40,
+    "question": "What is the estimated average cost of an electric locomotive?",
+    "options": {
+      "a": "$500,000 – $1 million",
+      "b": "$2 million – $10 million",
+      "c": "$10 million – $15 million",
+      "d": "$20 million or more"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 41,
+    "question": "Which of the following vehicles would typically be considered unpowered?",
+    "options": {
+      "a": "Electric locomotive",
+      "b": "Railcar",
+      "c": "Passenger coach",
+      "d": "Diesel multiple unit"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 42,
+    "question": "How long is the life cycle of a freight locomotive, based on average data?",
+    "options": {
+      "a": "10–15 years",
+      "b": "20–25 years",
+      "c": "30–35 years",
+      "d": "5–10 years"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 43,
+    "question": "What is the average annual maintenance cost of a freight locomotive?",
+    "options": {
+      "a": "€60,000",
+      "b": "€90,000",
+      "c": "€120,000",
+      "d": "€150,000"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 44,
+    "question": "What is the main structural component that supports the traction and braking equipment in a locomotive?",
+    "options": {
+      "a": "Pantograph",
+      "b": "Frame (box)",
+      "c": "Compressor",
+      "d": "Suspension"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 45,
+    "question": "What is the main function of a bogie in railway vehicles?",
+    "options": {
+      "a": "Generate electricity",
+      "b": "Transmit signals",
+      "c": "Provide stability and support",
+      "d": "Control the cabin"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 46,
+    "question": "Where is the primary suspension located in a locomotive?",
+    "options": {
+      "a": "Between box frame and bogie frame",
+      "b": "Between pantograph and axle",
+      "c": "Between bogie axle and bogie frame",
+      "d": "Inside the compressor unit"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 47,
+    "question": "What does a 'C' represent in UIC axle classification?",
+    "options": {
+      "a": "One non-motorized axle",
+      "b": "Three consecutive drive axles",
+      "c": "A car with pantograph",
+      "d": "Bogies with secondary suspension"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 48,
+    "question": "What is a major advantage of a single-engine bogie?",
+    "options": {
+      "a": "Increased weight",
+      "b": "Reduced brake performance",
+      "c": "Better behavior against lateral forces",
+      "d": "Slower operation"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 49,
+    "question": "Which generation of Talgo introduced the use of disc brakes and reversible trains?",
+    "options": {
+      "a": "Talgo I",
+      "b": "Talgo II",
+      "c": "Talgo III",
+      "d": "Talgo IV"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 50,
+    "question": "What is the maximum speed capability of the Talgo 350 and Avril?",
+    "options": {
+      "a": "220 km/h",
+      "b": "300 km/h",
+      "c": "350 km/h",
+      "d": "250 km/h"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 51,
+    "question": "What type of self-propelled train uses electric motors and pantographs? Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+    "options": {
+      "a": "DMU",
+      "b": "EMU",
+      "c": "Freight wagon",
+      "d": "Axle car"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 52,
+    "question": "What type of coach configuration improves stability and comfort over traditional fixed axles?",
+    "options": {
+      "a": "Pantograph units",
+      "b": "Single axle",
+      "c": "Open-coach car",
+      "d": "Car with bogies"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 53,
+    "question": "Which component helps control small sinusoidal bogie movements at high speeds?",
+    "options": {
+      "a": "Yaw damper",
+      "b": "Brake pad holder",
+      "c": "Shaft bearing",
+      "d": "Gear unit"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 54,
+    "question": "What braking system acts directly on the rail and supplements the main braking system?",
+    "options": {
+      "a": "Track brake",
+      "b": "Disc brake",
+      "c": "Air brake",
+      "d": "Hydraulic brake"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 55,
+    "question": "Which Talgo train series introduced electropneumatic brakes and 200 km/h capability?",
+    "options": {
+      "a": "Talgo II",
+      "b": "Talgo IV",
+      "c": "Talgo VI",
+      "d": "Talgo VII"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 56,
+    "question": "What is a distinguishing feature of freight wagons?",
+    "options": {
+      "a": "Integrated power source",
+      "b": "Pantograph system",
+      "c": "Unpowered cargo transport",
+      "d": "Reclining passenger seats"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 57,
+    "question": "What kind of danger can result from a 'hot box' condition in freight wagons?",
+    "options": {
+      "a": "Power failure",
+      "b": "Flat spots and derailments",
+      "c": "Signal loss",
+      "d": "Overcooling"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 58,
+    "question": "Which element in a bogie minimizes impact from track irregularities?",
+    "options": {
+      "a": "Primary spring",
+      "b": "Secondary suspension",
+      "c": "Electric converter",
+      "d": "Guide wheel"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 59,
+    "question": "What type of multiple unit is powered by a diesel engine?",
+    "options": {
+      "a": "EMU",
+      "b": "DMU",
+      "c": "Talgo",
+      "d": "UIC wagon"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 60,
+    "question": "What element distinguishes axle wagons from bogie wagons?",
+    "options": {
+      "a": "Use of air brakes",
+      "b": "Number of wheelsets",
+      "c": "Presence of couplers",
+      "d": "Electric motor location"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 61,
+    "question": "What type of seats are common in open-coach cars?",
+    "options": {
+      "a": "Coupled mechanical seats",
+      "b": "Wooden benches",
+      "c": "Two rows with center aisle",
+      "d": "Circular seating"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 62,
+    "question": "What is the function of the anti-roll bar in a railway carriage?",
+    "options": {
+      "a": "Store electrical energy",
+      "b": "Transmit braking force",
+      "c": "Counteract rolling movement",
+      "d": "Activate emergency systems"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 63,
+    "question": "Which classification uses a plus sign '+' to indicate connected vehicles?",
+    "options": {
+      "a": "Whyte notation Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "b": "UIC axle classification",
+      "c": "Track geometry",
+      "d": "Rolling code"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 64,
+    "question": "What is the axle configuration and total weight for a BB locomotive?",
+    "options": {
+      "a": "Two bogies with two axles each, 80 Tn",
+      "b": "Two bogies with three axles each, 120 Tn",
+      "c": "Three bogies with two axles each, 100 Tn",
+      "d": "One bogie with four axles, 60 Tn"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 65,
+    "question": "In Talgo trainsets, how is the turning movement of the wheels on curves achieved?",
+    "options": {
+      "a": "Through the secondary suspension system",
+      "b": "By automatic steering sensors",
+      "c": "Mechanically via triangular bar linkages",
+      "d": "Using anti-roll bars"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 66,
+    "question": "Which part of the pantograph ensures contact with the overhead wire?",
+    "options": {
+      "a": "Support insulators",
+      "b": "Pallet and carbon strip",
+      "c": "Lower arm",
+      "d": "Guiding rod"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 67,
+    "question": "Which generation of Talgo introduced the pendular suspension system?",
+    "options": {
+      "a": "Talgo II",
+      "b": "Talgo IV",
+      "c": "Talgo VI",
+      "d": "Talgo VII"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 68,
+    "question": "Which of the following locomotives, according to the weight vs. wheel diameter chart, has one of the highest axle loads?",
+    "options": {
+      "a": "Z5100",
+      "b": "BB9400",
+      "c": "Z5300",
+      "d": "BB9001"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 69,
+    "question": "What is the primary function of a coupler on a railway vehicle?",
+    "options": {
+      "a": "To supply electrical power Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "b": "To absorb traction forces",
+      "c": "To connect rail vehicles together",
+      "d": "To control braking pressure"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 70,
+    "question": "Which component absorbs the stresses caused by coupling and acceleration in a rail vehicle?",
+    "options": {
+      "a": "Bogie",
+      "b": "Draft gear",
+      "c": "Pantograph",
+      "d": "Gearbox"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 71,
+    "question": "Which of the following is characteristic of manual couplers?",
+    "options": {
+      "a": "Fully automatic mechanical connection",
+      "b": "Automatic uncoupling via cabin pedal",
+      "c": "Only mechanical, pneumatic, and electrical connections done manually",
+      "d": "Wireless electric linking"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 72,
+    "question": "What type of coupler is still commonly used in many European countries?",
+    "options": {
+      "a": "Fully automatic knuckle coupler",
+      "b": "Screw coupler with buffers and chain",
+      "c": "Airless coupler",
+      "d": "Hydraulic push-pull coupler"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 73,
+    "question": "What distinguishes semi-automatic couplers from manual couplers?",
+    "options": {
+      "a": "They perform all connections without human intervention",
+      "b": "Only mechanical connection is automatic",
+      "c": "They are used exclusively on freight wagons",
+      "d": "They include wireless data transfer"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 74,
+    "question": "In semi-automatic couplers, what is typically required for uncoupling?",
+    "options": {
+      "a": "A smartphone app",
+      "b": "Releasing a trunnion valve",
+      "c": "Manual removal of a latching mechanism",
+      "d": "Reversing the train"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 75,
+    "question": "Which of the following statements is true about automatic couplers?",
+    "options": {
+      "a": "They require manual mechanical connection",
+      "b": "They connect vehicles using only a draw hook Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "c": "They perform mechanical, pneumatic, and electrical connections automatically",
+      "d": "They are completely maintenance-free"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 76,
+    "question": "In the screw coupler system shown, what part allows for tightening between vehicles?",
+    "options": {
+      "a": "D-shackle",
+      "b": "Trunnion",
+      "c": "Hinged handle",
+      "d": "Screw"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 77,
+    "question": "What is the purpose of the hinged handle in the coupler system shown?",
+    "options": {
+      "a": "Adjust axle alignment",
+      "b": "Manually tighten or release the coupling",
+      "c": "Lock electrical circuits",
+      "d": "Raise the draw hook"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 78,
+    "question": "The \"Janney\" knuckle coupler, patented in 1873, belongs to which category of coupling systems?",
+    "options": {
+      "a": "Manual couplers",
+      "b": "Semi-automatic couplers",
+      "c": "Automatic couplers",
+      "d": "Hybrid magnetic couplers"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 79,
+    "question": "Which part of a manual screw coupler assembly transmits longitudinal force between rail vehicles?",
+    "options": {
+      "a": "D-shackle",
+      "b": "Draw hook",
+      "c": "Pantograph arm",
+      "d": "Yaw damper"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 80,
+    "question": "Which component connects the screw to the rest of the coupler system to allow angular flexibility?",
+    "options": {
+      "a": "Trunnion",
+      "b": "Flat coupling link",
+      "c": "Brake rod",
+      "d": "Yaw damper"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 81,
+    "question": "What type of connection do automatic couplers eliminate the need for manual handling?",
+    "options": {
+      "a": "Only mechanical connection",
+      "b": "Pneumatic and mechanical only",
+      "c": "Mechanical, pneumatic, and electric connections",
+      "d": "Manual buffer alignment"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 82,
+    "question": "What aspect of fully automatic couplers makes them more complex than other types?",
+    "options": {
+      "a": "They rely on friction-only attachment",
+      "b": "They are manually operated",
+      "c": "They include systems for pneumatic and electric coupling",
+      "d": "They are only used on old trains"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 83,
+    "question": "How is the uncoupling process initiated in fully automatic couplers?",
+    "options": {
+      "a": "By manual release using a trunnion tool",
+      "b": "By stepping on a release pedal or pressing a button in the cab",
+      "c": "Using a key next to the hinged handle",
+      "d": "Manually unscrewing the coupler screw"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 84,
+    "question": "What is the minimum speed generally required for a train to be classified as high-speed in regular passenger service?",
+    "options": {
+      "a": "120 km/h",
+      "b": "160 km/h",
+      "c": "200 km/h",
+      "d": "250 km/h"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 85,
+    "question": "What characterizes the infrastructure used in high-speed rail (HSR)?",
+    "options": {
+      "a": "Shared tracks with traditional trains",
+      "b": "Dedicated tracks and specialized rolling stock",
+      "c": "Slower trains for safety",
+      "d": "Dual-fuel locomotives"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 86,
+    "question": "What aspect is NOT mentioned as a factor influencing train aerodynamics in HSR?",
+    "options": {
+      "a": "Tunnel operation",
+      "b": "Speed range",
+      "c": "Track gauge",
+      "d": "Crosswinds Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 87,
+    "question": "Why is the pantograph–catenary relationship critical in high-speed rail systems?",
+    "options": {
+      "a": "It determines train direction",
+      "b": "It supports aerodynamic lift",
+      "c": "It ensures efficient electrical current collection",
+      "d": "It stabilizes the wheels"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 88,
+    "question": "Which is NOT listed as a technical measure for pantograph operation above 300 km/h?",
+    "options": {
+      "a": "Rapid pantograph-dropping protection",
+      "b": "Active-control pantograph",
+      "c": "Wireless energy transfer",
+      "d": "Strength analysis"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 89,
+    "question": "What is the main function of regenerative braking in high-speed trains?",
+    "options": {
+      "a": "Friction reduction",
+      "b": "Emergency deceleration",
+      "c": "Conversion of kinetic energy to electrical energy",
+      "d": "Enhancing magnetic resistance"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 90,
+    "question": "What component in disc brakes helps generate friction to slow down the train?",
+    "options": {
+      "a": "Rotor belt",
+      "b": "Rotating disc and caliper",
+      "c": "Brake pads",
+      "d": "Power inverter"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 91,
+    "question": "In what situation are emergency brakes designed to operate in high-speed trains?",
+    "options": {
+      "a": "During normal station stops",
+      "b": "To prevent wheel overheating",
+      "c": "In critical situations requiring maximum force",
+      "d": "For speed regulation in tunnels"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 92,
+    "question": "What is a key advantage of the Distributed Traction System (EMU) over the Concentrated one?",
+    "options": {
+      "a": "Greater need for two locomotives",
+      "b": "Centralized power car",
+      "c": "Reduced axle load and flexible arrangement Infraestructura de Transporte – Ferrocarrilles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "d": "Use of diesel power units"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 93,
+    "question": "What type of suspension is used in second-generation high-speed trainsets?",
+    "options": {
+      "a": "Hydraulic",
+      "b": "Helicoidal",
+      "c": "Pneumatic",
+      "d": "Magnetic"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 94,
+    "question": "What is the main safety focus mentioned for high-speed trains in case of failure or accident?",
+    "options": {
+      "a": "Weight reduction",
+      "b": "Aerodynamic lift",
+      "c": "Train stability and functioning",
+      "d": "Tunnel ventilation"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 95,
+    "question": "Which factor is explicitly mentioned as influencing high-speed train aerodynamics?",
+    "options": {
+      "a": "Passenger weight",
+      "b": "Lighting systems",
+      "c": "Exposure to crosswinds",
+      "d": "Track curvature"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 96,
+    "question": "What braking system in high-speed trains creates opposing forces using a magnetic field?",
+    "options": {
+      "a": "Electromagnetic brake",
+      "b": "Emergency brake",
+      "c": "Regenerative brake",
+      "d": "Air brake"
+    },
+    "answer": "a"
+  },
+  {
+    "n": 97,
+    "question": "Which trainset design example uses the Push-pull (Concentrated Traction) system?",
+    "options": {
+      "a": "Shinkansen",
+      "b": "ICE-3",
+      "c": "AGV",
+      "d": "Talgo 350"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 98,
+    "question": "In the EMU design, what forms an independent operation unit in trains like the Shinkansen?",
+    "options": {
+      "a": "The front and rear locomotives",
+      "b": "3 to 5 distributed powered cars Infraestructura de Transporte – Ferrocarriles Multiple-Choice Questions – Section 2.1 – Railway Infrastructure",
+      "c": "A central energy storage module",
+      "d": "The driver’s cabin only"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 1,
+    "question": "What is the main purpose of using transition curves (clothoids) in railway track layout?",
+    "options": {
+      "a": "Reduce axle wear",
+      "b": "Minimize energy consumption on slopes",
+      "c": "Avoid slipping on tight curves",
+      "d": "Gradually vary curvature and cant"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 2,
+    "question": "From the passenger’s perspective, what effect does a tilting train produce?",
+    "options": {
+      "a": "Increase in train weight",
+      "b": "Increase in uncompensated acceleration",
+      "c": "Apparent increase in cant",
+      "d": "Increase in curve radius"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 3,
+    "question": "What is the typical tilting angle range for trains with active tilt systems?",
+    "options": {
+      "a": "1º to 3º",
+      "b": "2º to 5º",
+      "c": "3º to 4º",
+      "d": "4º to 8º"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 4,
+    "question": "What happens when lateral acceleration is not fully compensated by the train’s weight in a curve?",
+    "options": {
+      "a": "Cant is increased",
+      "b": "Cant excess occurs",
+      "c": "Uncompensated acceleration appears",
+      "d": "Centrifugal force disappears"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 5,
+    "question": "What is the function of cant on a railway curve?",
+    "options": {
+      "a": "Increase train traction",
+      "b": "Compensate for part of the centrifugal force",
+      "c": "Improve lateral ventilation",
+      "d": "Reduce train weight"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 6,
+    "question": "What is the practical maximum cant used on high-speed railway lines in Spain?",
+    "options": {
+      "a": "140 mm",
+      "b": "160 mm",
+      "c": "180 mm",
+      "d": "200 mm"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 7,
+    "question": "Which tilting train uses a natural “pendulum” system for passive tilt?",
+    "options": {
+      "a": "X2000",
+      "b": "Pendolino",
+      "c": "ICE-T",
+      "d": "Talgo"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 8,
+    "question": "What is the effect of cant excess on slower trains?",
+    "options": {
+      "a": "Insufficient inward tilt",
+      "b": "Discomfort from acceleration",
+      "c": "Overload on the inner rail",
+      "d": "Increase in travel speed"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 9,
+    "question": "What cant deficiency value is allowed on some rail networks, like in France, to increase speed?",
+    "options": {
+      "a": "110 mm",
+      "b": "120 mm",
+      "c": "150 mm",
+      "d": "160–180 mm"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 10,
+    "question": "What parameter measures the difference when the installed cant is lower than the theoretical one?",
+    "options": {
+      "a": "Effective cant",
+      "b": "Cant deficiency",
+      "c": "Cant excess",
+      "d": "Curve radius"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 11,
+    "question": "What is the goal of selective track slewing (lateral displacement) in curves?",
+    "options": {
+      "a": "Reduce energy consumption",
+      "b": "Increase cant",
+      "c": "Increase curve radius",
+      "d": "Compensate vertical acceleration"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 12,
+    "question": "What is a limitation of excessively increasing cant on ballasted tracks?",
+    "options": {
+      "a": "Loss of train adhesion",
+      "b": "Difficulty maintaining the inclination",
+      "c": "Increase in maximum speed",
+      "d": "Decrease in passenger comfort"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 13,
+    "question": "Which type of acceleration, affected by suspension, directly influences passenger comfort?",
+    "options": {
+      "a": "Centripetal acceleration",
+      "b": "Total acceleration",
+      "c": "Perceived acceleration (Souplesse effect)",
+      "d": "Vertical acceleration"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 14,
+    "question": "Which geometric design element is related to the Z axis (vertical)?",
+    "options": {
+      "a": "Curve radius",
+      "b": "Horizontal alignment",
+      "c": "Cant",
+      "d": "Vertical alignment"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 15,
+    "question": "What is one of the main benefits of using tilting trains on existing railway lines?",
+    "options": {
+      "a": "Reduce the need for signaling",
+      "b": "Increase freight capacity",
+      "c": "Increase speed without major track modifications",
+      "d": "Improve braking precision"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 1,
+    "question": "Which type of effort determines the basic design criteria for railway tracks?",
+    "options": {
+      "a": "Longitudinal",
+      "b": "Lateral",
+      "c": "Vertical",
+      "d": "Torsional"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 2,
+    "question": "What causes track buckling in continuous welded rail (CWR)?",
+    "options": {
+      "a": "Wind loads and signal failure",
+      "b": "High temperatures and compressive forces",
+      "c": "Misaligned ballast",
+      "d": "Heavy rainfall"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 3,
+    "question": "What does the Dynamic Amplification Factor (DAF) depend on?",
+    "options": {
+      "a": "Axle load only",
+      "b": "Track width",
+      "c": "Speed and maintenance quality",
+      "d": "Soil composition"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 4,
+    "question": "According to Eisenmann’s research, the vertical dynamic loads on track follow which distribution?",
+    "options": {
+      "a": "Exponential",
+      "b": "Uniform",
+      "c": "Logarithmic",
+      "d": "Normal"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 5,
+    "question": "What range does the Dynamic Force Increment coefficient vary within at 200 km/h?",
+    "options": {
+      "a": "1.0 to 1.5",
+      "b": "1.2 to 2.8",
+      "c": "2.5 to 3.5",
+      "d": "0.5 to 1.0"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 6,
+    "question": "What is the optimal range for vertical stiffness of the track to minimize deterioration?",
+    "options": {
+      "a": "20–50 kN/mm",
+      "b": "100–150 kN/mm",
+      "c": "75–110 kN/mm",
+      "d": "40–65 kN/mm"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 7,
+    "question": "Which element is NOT used to improve vertical stiffness of railway tracks?",
+    "options": {
+      "a": "Rail pads",
+      "b": "Under sleeper pads",
+      "c": "Rail fasteners",
+      "d": "Under ballast mats"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 8,
+    "question": "What effect does tamping have on lateral resistance of the track?",
+    "options": {
+      "a": "Increases resistance by 10%",
+      "b": "Has no effect",
+      "c": "Reduces resistance to 30–40%",
+      "d": "Only affects vertical stiffness"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 9,
+    "question": "What track component has minimal influence on lateral resistance?",
+    "options": {
+      "a": "Ballast shoulder width",
+      "b": "Rail weight",
+      "c": "Sleeper spacing",
+      "d": "Ballast particle size"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 10,
+    "question": "What is the typical dimension of an effective ballast shoulder to ensure lateral stability?",
+    "options": {
+      "a": "0.5–0.7 m",
+      "b": "0.8–0.9 m",
+      "c": "0.9–1.0 m",
+      "d": "1.0–1.2 m"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 11,
+    "question": "What factor primarily defines the base thickness of the ballast and subballast layers?",
+    "options": {
+      "a": "Width of the rail",
+      "b": "Passenger comfort",
+      "c": "Subsoil and traffic characteristics",
+      "d": "Platform elevation"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 12,
+    "question": "What is a fictitious value used to evaluate load aggressiveness on track structure?",
+    "options": {
+      "a": "Equivalent axle load (EAL)",
+      "b": "Average daily equivalent traffic (Te)",
+      "c": "Vertical load index (VLI)",
+      "d": "Track modulus factor (TMF)"
+    },
+    "answer": "b"
+  },
+  {
+    "n": 13,
+    "question": "Which of the following does NOT increase lateral effort on curves?",
+    "options": {
+      "a": "Crosswind",
+      "b": "Curve alignment",
+      "c": "Hunting motion",
+      "d": "Rail welding"
+    },
+    "answer": "d"
+  },
+  {
+    "n": 14,
+    "question": "What is the effect of increasing sleeper weight on lateral resistance?",
+    "options": {
+      "a": "No effect",
+      "b": "Decreases resistance",
+      "c": "Increases resistance",
+      "d": "Only increases vertical stiffness"
+    },
+    "answer": "c"
+  },
+  {
+    "n": 15,
+    "question": "What condition leads to track slewing?",
+    "options": {
+      "a": "Lack of tamping",
+      "b": "Longitudinal train braking",
+      "c": "Lateral forces exceeding transversal resistance",
+      "d": "Vertical overloading"
+    },
+    "answer": "c"
+  }
+]
