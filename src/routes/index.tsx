@@ -153,19 +153,23 @@ function QuizPage() {
   }
 
   const q = questions[idx];
-  const submitted = picked !== null && answers[q.n] !== undefined;
+  const savedAnswer = answers[q.n];
+  const submitted = savedAnswer !== undefined;
+  const currentPick = submitted ? savedAnswer : picked;
+  const isLast = idx + 1 >= questions.length;
 
   const submit = () => {
     if (!picked) return;
     setAnswers({ ...answers, [q.n]: picked });
   };
+  const goTo = (newIdx: number) => {
+    setIdx(newIdx);
+    setPicked(null);
+  };
+  const prev = () => idx > 0 && goTo(idx - 1);
   const next = () => {
-    if (idx + 1 >= questions.length) {
-      setDone(true);
-    } else {
-      setIdx(idx + 1);
-      setPicked(null);
-    }
+    if (isLast) setDone(true);
+    else goTo(idx + 1);
   };
 
   return (
@@ -183,7 +187,7 @@ function QuizPage() {
 
         <div className="mt-6 space-y-3">
           {Object.entries(q.options).map(([k, v]) => {
-            const isPicked = picked === k;
+            const isPicked = currentPick === k;
             const isCorrect = k === q.answer;
             const showResult = submitted;
             return (
@@ -205,16 +209,24 @@ function QuizPage() {
           })}
         </div>
 
-        <div className="mt-6 flex justify-end gap-2">
-          {!submitted ? (
-            <Button onClick={submit} disabled={!picked}>
-              Submit
+        <div className="mt-6 flex items-center justify-between gap-2">
+          <Button variant="outline" onClick={prev} disabled={idx === 0}>
+            ← Previous
+          </Button>
+          <div className="flex gap-2">
+            {!submitted && (
+              <Button onClick={submit} disabled={!picked}>
+                Submit
+              </Button>
+            )}
+            <Button
+              variant={submitted ? "default" : "outline"}
+              onClick={next}
+              disabled={isLast && !submitted}
+            >
+              {isLast ? "See results" : submitted ? "Next →" : "Skip →"}
             </Button>
-          ) : (
-            <Button onClick={next}>
-              {idx + 1 >= questions.length ? "See results" : "Next"}
-            </Button>
-          )}
+          </div>
         </div>
       </div>
     </main>
